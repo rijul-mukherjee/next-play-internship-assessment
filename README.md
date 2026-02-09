@@ -4,9 +4,8 @@
 This project involved improving the Next Play Football Edition product page to fix critical bugs and enhance user experience. The work demonstrates skills in product management, UI/UX design, and front-end development.
 
 ## Project Context
-**Challenge:** Audit a real product page for a live sports card game and implement improvements  
-**Timeline:** Completed in single session  
-**Tools Used:** HTML/CSS, Python for automation, manual code editing  
+**Challenge:** Audit a real product page for a live sports card game and implement improvements
+**Tools Used:** HTML/CSS
 **Target Roles:** This project showcases capabilities relevant to UI/UX Motion Designer, Software Engineer, and Product Manager positions
 
 ## Critical Bug Fixed
@@ -37,8 +36,8 @@ This project involved improving the Next Play Football Edition product page to f
 **Why:** More concise and welcoming. Emphasizes inclusivity over mechanics.
 
 #### 5. "FUN COMPLEMENT" → "MASTER FOOTBALL"
-**Before:** Positioned as passive entertainment supplement  
-**After:** Emphasizes active learning and skill development  
+**Before:** Positioned as passive entertainment supplement, unclear heading  
+**After:** Emphasizes active learning and skill development, powerful and clear message  
 **Why:** Better aligns with product's educational mission. More appealing to parents and makes the value proposition stronger.
 
 #### 6. "LOTS OF LAUGHTER" → "SURPRISING & FUNNY"
@@ -55,11 +54,11 @@ This project involved improving the Next Play Football Edition product page to f
 
 #### 8. "In Stock" Badge
 **Addition:** Green badge displaying product availability  
-**Why:** Builds trust and creates urgency. Reduces customer uncertainty about whether they can actually purchase.
+**Why:** Creates urgency. Reduces customer uncertainty about whether they can actually purchase.
 
 #### 9. Customer Reviews Display
 **Addition:** "★★★★☆ 4.3 out of 5 (59 reviews on Amazon)"  
-**Why:** Social proof is one of the strongest conversion drivers. Shows real customers are satisfied.
+**Why:** Social proof is one of the strongest conversion drivers. Shows real customers are satisfied on a major platform.
 
 #### 10. Button Color Change
 **Before:** Default blue  
@@ -75,7 +74,7 @@ This project involved improving the Next Play Football Edition product page to f
 **Why:** For a $14.99 product, monthly payments are absurd and make the page look unprofessional. This was likely leftover from the $1,499.99 price error.
 
 #### 13. Removed Social Share Buttons
-**Removed:** Facebook, WhatsApp, X sharing options  
+**Removed:** Facebook, WhatsApp, X sharing options from top of page  
 **Why:** These are rarely used and add visual clutter. Streamlines the purchase flow.
 
 #### 14. Removed Breadcrumb Navigation
@@ -83,24 +82,6 @@ This project involved improving the Next Play Football Edition product page to f
 **Why:** Reduces unnecessary navigation options that could lead users away from purchase.
 
 ## Technical Approach
-
-### Initial Strategy
-Started with Python automation to make bulk changes efficiently.
-
-### Pivot to Manual Editing
-When automated regex changes broke the Wix page structure, pivoted to a hybrid approach:
-1. Identified exact locations for each change
-2. Provided step-by-step manual instructions
-3. User tested each change individually
-4. Only kept changes that worked
-
-This iterative, test-driven approach ensured all improvements were functional.
-
-### Final Implementation
-- **Text changes:** 7 content improvements plus critical price fix
-- **Visual changes:** 6 UX enhancements (all successful)
-- **Files modified:** 1 HTML file
-- **Testing approach:** Incremental validation
 
 ## How to View the Final Product
 
@@ -126,23 +107,12 @@ This iterative, test-driven approach ensured all improvements were functional.
 - Debugged complex HTML structure
 - Implemented working CSS modifications
 - Tested changes incrementally to ensure stability
-- Adapted strategy when initial approach failed
-
-### Communication & Documentation
-- Created clear, actionable instructions for technical changes
-- Documented reasoning behind each decision
-- Provided multiple solution approaches based on risk tolerance
 
 ## Key Learnings
 
 1. **Always test incrementally** - Making all changes at once would have made debugging impossible
-2. **Context matters** - The $80/mo payment plan made sense at $1,499.99 but was ridiculous at $14.99
+2. **Context matters** - The $80/mo payment plan made sense at $1,499.99 but was ridiculous at $14.99, and the $1,499.99 pricepoint seemed like a clear mistake
 3. **Benefits over features** - Leading with "transform your game day" beats "you earn points if you win"
-4. **Visual changes are easier than structural ones** - Hiding elements is safer than removing them
-5. **Real projects have constraints** - Can't always use ideal tools (couldn't rebuild in React), must work with what exists
+4. **Visual changes are easier than structural ones** - Hiding elements is safer than removing them; any deletions I made are easily reversable
 
 ---
-
-**Created by:** Rijul Mukherjee  
-**For:** Next Play Games internship application  
-**Date:** February 9th, 2026
