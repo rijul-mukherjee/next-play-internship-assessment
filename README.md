@@ -81,8 +81,6 @@ This project involved improving the Next Play Football Edition product page to f
 **Removed:** "Home / Shop / Product" path  
 **Why:** Reduces unnecessary navigation options that could lead users away from purchase.
 
-## Technical Approach
-
 ## How to View the Final Product
 
 1. Download the HTML file and associated `_files` folder
