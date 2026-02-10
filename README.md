@@ -108,9 +108,10 @@ This project involved improving the Next Play Football Edition product page to f
 
 ## Key Learnings
 
-1. **Always test incrementally** - Making all changes at once would have made debugging impossible
-2. **Context matters** - The $80/mo payment plan made sense at $1,499.99 but was ridiculous at $14.99, and the $1,499.99 pricepoint seemed like a clear mistake
-3. **Benefits over features** - Leading with "transform your game day" beats "you earn points if you win"
-4. **Visual changes are easier than structural ones** - Hiding elements is safer than removing them; any deletions I made are easily reversable
+1. **Always test incrementally** - Making all changes at once would have made debugging impossible.
+2. **Context matters** - The $80/mo payment plan made sense at $1,499.99 but was ridiculous at $14.99, and the $1,499.99 pricepoint seemed like a clear mistake.
+3. **Benefits over features** - Leading with "transform your game day" beats "you earn points if you win."
+4. **Visual changes are easier than structural ones** - Hiding elements is safer than removing them; any deletions I made are easily reversible.
+5. **Strong design always wins** - This short project put my skills from courses like Persuasive Design and Designing Human-Centered Software to the test. A short single-blind survey revealed that my new site is clearear and more appealing to a consumer.
 
 ---
